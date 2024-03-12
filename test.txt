@@ -1,1 +1,4 @@
 This is textfile to clone
+
+and this is another commit from local machine
+
