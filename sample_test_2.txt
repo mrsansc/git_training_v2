@@ -1,1 +1,7 @@
+GIT Revert commit 1
+
 This is Sample Test File 2
+
+`
+This is comparison lecture
+This is comparison lecture. Change in file 2
