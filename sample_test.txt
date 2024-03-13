@@ -11,3 +11,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 This is comparison lecture
 
 This is the Stash lecture, Change on file 1
+This is the Stash lecture, Change For untracked Files in File 1
